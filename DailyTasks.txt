@@ -1,0 +1,6 @@
+June 3rd
+=========
+Get familiar with DOS basic commands, all keys on keyboard and basic computer operations
+Go to https://www.w3schools.com/python/python_intro.asp and read first three chapters
+Python Intro, Python Get Started and Python Syntax
+Go here - https://www.jetbrains.com/pycharm/download/#section=windows and install pycharm community edition
