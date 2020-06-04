@@ -1,8 +1,9 @@
 Git is an application used to save your source code or file, and serves as version control system
 
-git clone <repository_url>   -> to check out a repository from git
+git clone <repository_url>   -> to clone a repository to local workspace
+git checkout <branch_name> -> to checkout a different branch
+git checkout -b <branch_name> -> to create a new branch and checkout the same branch
 git pull <branch_name> -> to get latest changes from branch, if you dont give branch name it will pull changes from the current branch you are in
-
 to commit your changes to the repository
 git status -> gives you the status of your uncommitted changes
 git add <file_name> -> adds specified file to your commit, if you want to add all your changes run git add .(dot, denotes ALL)
