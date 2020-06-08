@@ -7,6 +7,7 @@ git pull <branch_name> -> to get latest changes from branch, if you dont give br
 to commit your changes to the repository
 git status -> gives you the status of your uncommitted changes
 git add <file_name> -> adds specified file to your commit, if you want to add all your changes run git add .(dot, denotes ALL)
+git commit -m"commit message/notes" -> will commit your changes to local repo, this should be followed by git push to push your changes to remote repo
 git push -> pushes your changes to the current branch you are in, after this your changes can be viewed by others provided they have permissions to do source
 
 
